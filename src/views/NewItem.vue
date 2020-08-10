@@ -14,9 +14,8 @@
 
 <script>
 export default {
-  name: 'NewItemPage'
+  name: 'NewItem'
 };
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped></style>
