@@ -10,6 +10,9 @@
     "android": "npm run build && cap open android"
   },
   "dependencies": {
+    "@capacitor/android": "^2.4.0",
+    "@capacitor/cli": "^2.4.0",
+    "@capacitor/core": "^2.4.0",
     "@ionic/core": "^5.3.1",
     "@ionic/vue": "0.0.4",
     "core-js": "^3.6.5",

@@ -1,0 +1,14 @@
+{
+  "appId": "com.berkmann18.vueion",
+  "appName": "vueion",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {},
+  "linuxAndroidStudioPath": "/usr/bin/android-studio"
+}
